@@ -1,5 +1,7 @@
 ### Hi there, It's me Sarah 👋
 
+
+
 <!--
 **SaraLatif99/SaraLatif99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her/His
 - ⚡ Fun fact: 000
 
+[![Sara's github stats](https://github-readme-stats.vercel.app/api?username=SaraLatif99)](https://github.com/SaraLatif99/github-readme-stats)
