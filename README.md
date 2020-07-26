@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about anything. ->
 <!--  - 📫 How to reach me: Gmail, Github, LinkedIn -->
 - 😄 Pronouns: She/Her/His
-#- ⚡ Fun fact: 000
+- ⚡ Fun fact: 000
 
 [![Sara's github stats](https://github-readme-stats.vercel.app/api?username=SaraLatif99)](https://github.com/SaraLatif99/github-readme-stats)
