@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on building web based Image Classifier App with PyTorch Framework. -->
 - 🌱 I’m currently learning Web Development.
-<!-- <!-- - 👯 I’m looking to collaborate on any Python related project. --> -->
-<!--  - 📫 How to reach me: =<a href="https://www.linkedin.com/in/saralatif99/" target ="_blank"> LinkedIn </a>-->
+<!--  👯 I’m looking to collaborate on any Python related project. -->
+- 📫 How to reach me: =<a href="https://www.linkedin.com/in/saralatif99/" target ="_blank"> LinkedIn </a>
 - 😄 Pronouns: She/Her/His
 - ⚡ Fun fact: 000
 
