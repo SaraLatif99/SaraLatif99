@@ -1,6 +1,6 @@
 ### Hi, It's me Sarah  I am DAT Specialist!
 
-### **SaraLatif99/SaraLatif99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  **SaraLatif99/SaraLatif99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Back in the league after nearly a half decade.
 
