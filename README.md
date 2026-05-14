@@ -1,14 +1,14 @@
-### Hi, It's me Sarah  I am DAT Specialist!
+### Hi, It's me Sarah ! I am DAT Specialist.
 
 <!--  **SaraLatif99/SaraLatif99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Back in the league after nearly a half decade. -->
 
-### 🔭 I’m currently Learning Data Science, Computer Vision🌱
+### 🔭 I’m currently Learning digital forensics, cryptography🌱
 
-### 👯 I’m looking to collaborate on any Python, Data Science and ML Projects. 
+### 👯 I’m looking to collaborate on digital forensics and cyrptography Projects. 
 
-###  I am found on Kaggle, HR & Code Wars.
+###  user location : 404
 
 <!-- 📫 How to reach me: <a href="https://www.linkedin.com/in/saralatif99/" target ="_blank"> LinkedIn </a> -->
 
