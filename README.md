@@ -10,5 +10,5 @@
 
 ###  user location : 404
 
-###📫 How to reach me: <a href="https://www.linkedin.com/in/saralatif99/" target ="_blank"> LinkedIn </a> 
+📫 How to reach me: <a href="https://www.linkedin.com/in/saralatif99/" target ="_blank"> LinkedIn </a> 
 
